@@ -1,0 +1,13 @@
+.env
+.env.*
+*.csv
+*.json
+*.sqlite
+*.db
+
+# Credentials and secrets
+*[Cc]redential*
+*[Ss]ecret*
+*[Tt]oken*
+*.pem
+*.key
